@@ -87,7 +87,7 @@ Built a churn analysis dashboard focused on retention and growth metrics such as
 - **GitHub:** https://github.com/subhankar-das18
 - **Location:** Kolkata, West Bengal, India
 
-***
+*** 
 
 ## Portfolio Philosophy
 I believe data analysis is not only about creating charts or writing SQL queries. It is about understanding the business problem, analyzing the right data, and communicating insights clearly so better decisions can be made.
