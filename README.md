@@ -1,6 +1,6 @@
 # Hi, I'm Subhankar Das 👋
 
-Aspiring **Data Analyst** from Kolkata, India, building practical projects in **SQL, PostgreSQL, Power BI, Excel, and analytics storytelling**.
+Aspiring **Data Analyst** from Kolkata, India, building practical projects in **SQL, PostgreSQL, Power BI, Excel, and analytics storytelling**. 
 
 I’m focused on becoming job-ready in 2026 by working on real business-style projects in **e-commerce** and **SaaS analytics**.
 
