@@ -5,7 +5,7 @@
 Focused on becoming job-ready in 2026 by solving business problems across **e-commerce**, **SaaS**, and **finance** domains.
 
 ---
-
+ 
 ## 🙋 About Me
 
 - 🔍 Currently working on: **E-commerce Profitability & SaaS Churn Analysis**
