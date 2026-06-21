@@ -1,95 +1,66 @@
 # Hi, I'm Subhankar Das 👋
 
-Aspiring **Data Analyst** from Kolkata, India, building practical projects in **SQL, PostgreSQL, Power BI, Excel, and analytics storytelling**. 
+**Aspiring Data Analyst** from Kolkata, India — building real-world projects in SQL, PostgreSQL, Power BI, Excel, and DAX.
 
-I’m focused on becoming job-ready in 2026 by working on real business-style projects in **e-commerce** and **SaaS analytics**.
+Focused on becoming job-ready in 2026 by solving business problems across **e-commerce**, **SaaS**, and **finance** domains.
 
-***
+---
 
-## About Me
-- Learning data analytics with a project-first approach
-- Practicing **SQL, Power BI, Excel, PostgreSQL, and DAX**
-- Interested in **e-commerce analytics, SaaS metrics, dashboard design, and business storytelling**
-- Building portfolio projects that answer real business questions
-- Currently improving my skills in **AI-augmented analysis, storytelling, and business understanding**
+## 🙋 About Me
 
-***
+- 🔍 Currently working on: **E-commerce Profitability & SaaS Churn Analysis**
+- 📊 Building dashboards that answer real business questions — not just pretty charts
+- 🧠 Improving in: **AI-augmented analysis, business storytelling, and DAX**
+- 📍 Based in **Kolkata, India** — open to remote opportunities
+- 📫 Reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)** · [LinkedIn](https://linkedin.com/in/YOUR-LINK)
 
-## Skills
-### Data Analysis
-- SQL
-- PostgreSQL
-- Excel
-- Power BI
-- DAX
-- Data Cleaning
-- Data Visualization
-- Dashboard Building
-- Business Insights
-- Data Storytelling
+---
+
+## 🛠️ Skills & Tools
+
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Currently Learning
-- Python for analytics
-- SaaS metrics
-- E-commerce analytics
-- AI-assisted analysis workflows
-- Portfolio and case study writing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-***
+---
 
-## Featured Projects
+## 📁 Featured Projects
 
-### 1. E-commerce Sales Dashboard
-**Tools:** PostgreSQL, SQL, Power BI, DAX  
-Built an interactive sales dashboard to analyze revenue trends, country-wise performance, category performance, order status, and average order value.
+| Project | Domain | Tools | Description |
+|---|---|---|---|
+| [E-commerce Profitability Analysis](https://github.com/subhankar-das18/E-commerce-Profitability-Analysis) | Retail / E-commerce | PostgreSQL, Power BI, DAX | Revenue, orders & category performance dashboard |
+| [SaaS Churn Analysis](https://github.com/subhankar-das18/Saas-Churn-Analysis) | SaaS / B2B | Power BI, DAX | MRR, churn rate & retention by plan and industry |
+| [Loan Default Risk Analysis](https://github.com/subhankar-das18/Loan-Default-Risk-Analysis) | Finance / Banking | Power BI, DAX | High-risk borrower segmentation by credit score & DTI |
 
-**Highlights:**
-- Modeled data across Customers, Orders, Order_Items, and Products
-- Built KPI cards for Total Revenue, Total Orders, Total Customers, and AOV
-- Created visuals for monthly revenue trend, country analysis, category analysis, and order status breakdown
-- Wrote business insights to explain what the dashboard means for decision-makers
+---
 
-**Project Repos**
-- https://github.com/subhankar-das18/E-commerce-Profitability-Analysis.git
+## 📊 GitHub Stats
 
-### 2. SaaS Churn Analysis
-**Tools:** Power BI, DAX, SaaS metrics  
-Built a churn analysis dashboard focused on retention and growth metrics such as MRR, churn rate, retention by plan, industry, and acquisition channel.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhankar-das18&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar-das18&layout=compact&theme=dark&hide_border=true" width="40%" />
+</p>
 
-**Highlights:**
-- Analyzed customer churn patterns across segments
-- Tracked recurring revenue and retention behavior
-- Focused on business metrics commonly used in SaaS and product analytics
-- Practiced presenting findings in a business-friendly way
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar-das18&theme=dark&hide_border=true" width="55%" />
+</p>
 
-**Project Repo**
-- https://github.com/subhankar-das18/Saas-Churn-Analysis.git
+---
 
-***
+## 🏆 What I'm Working Toward
 
-## What I’m Working On
-- Strengthening SQL for business analysis
-- Building more polished Power BI dashboards
-- Learning how to explain insights clearly to non-technical stakeholders
-- Creating a stronger GitHub portfolio for data analyst roles
+- ✅ 3+ end-to-end industry projects on GitHub
+- ⬜ Python for data analysis (Pandas, Matplotlib)
+- ⬜ First data analyst role in 2026
+- ⬜ Tableau certification
 
-***
+---
 
-## Goals for 2026
-- Land an entry-level **Data Analyst** role
-- Build strong portfolio projects in **e-commerce** and **SaaS**
-- Improve storytelling, business acumen, and analytical thinking
-- Learn how to use AI tools effectively in analytics workflows
-
-***
-
-## Connect With Me
-- **GitHub:** https://github.com/subhankar-das18
-- **Location:** Kolkata, West Bengal, India
-
-*** 
-
-## Portfolio Philosophy
-I believe data analysis is not only about creating charts or writing SQL queries. It is about understanding the business problem, analyzing the right data, and communicating insights clearly so better decisions can be made.
-
-<3
+*"Data without context is just noise. I build dashboards that tell the story behind the numbers."*
