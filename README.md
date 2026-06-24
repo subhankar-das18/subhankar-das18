@@ -12,7 +12,8 @@ Focused on becoming job-ready in 2026 by solving business problems across **e-co
 - 📊 Building dashboards that answer real business questions — not just pretty charts
 - 🧠 Improving in: **AI-augmented analysis, business storytelling, and DAX**
 - 📍 Based in **Kolkata, India** — open to remote opportunities
-- 📫 Reach me: **[subhankardas.work@outlook.com](mailto:subhankardas.work@outlook.com)** ·[LinkedIn(https://www.linkedin.com/in/subhankar-das-the-analyst)
+- 📫 Reach me: **[subhankardas.work@outlook.com](mailto:subhankardas.work@outlook.com)**
+-  LinkedIn:(https://www.linkedin.com/in/subhankar-das-the-analyst)
 
 ---
 
