@@ -1,8 +1,6 @@
 # Hi, I'm Subhankar Das 👋 
 
-**Aspiring Data Analyst** from Kolkata, India — building real-world projects in SQL, PostgreSQL, Power BI, Excel, and DAX.
-
-Focused on becoming job-ready in 2026 by solving business problems across **e-commerce**, **SaaS**, and **finance** domains.
+**Self-taught data analyst , learning by actually building things 🛠️ | Currently solving real business problems with SQL, Power BI & DAX | E-commerce · SaaS · Finance | Work is how I grow 📈
 
 ---
  
