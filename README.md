@@ -6,7 +6,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
  
 ## 🙋 About Me
 
-- 🔍 Currently working on: **E-commerce Profitability & SaaS Churn Analysis**
+- 🔍 Currently working on: **Python for Data Analysis (Pandas, Matplotlib)**
 - 📊 Building dashboards that answer real business questions — not just pretty charts
 - 🧠 Improving in: **AI-augmented analysis, business storytelling, and DAX**
 - 📍 Based in **Kolkata, India** — open to remote opportunities
