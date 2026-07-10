@@ -42,10 +42,6 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhankar-das18&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar-das18&theme=dark&hide_border=true" width="55%" />
