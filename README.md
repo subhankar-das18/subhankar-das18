@@ -44,7 +44,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhankar-das18&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar-das18&layout=compact&theme=dark&hide_border=true" width="40%" />
+  
 </p>
 
 <p align="center">
