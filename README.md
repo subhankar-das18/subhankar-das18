@@ -4,7 +4,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ---
  
-## 🙋 About Me
+## 🙋 About Me 
 
 - 🔍 Currently working on: **Python for Data Analysis (Pandas, Matplotlib)**
 - 📊 Building dashboards that answer real business questions — not just pretty charts
