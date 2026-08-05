@@ -3,7 +3,7 @@
 __Self-taught data analyst , learning by actually building things 🛠️ | Currently solving real business problems with SQL, Power BI & DAX | E-commerce · SaaS · Finance | Work is how I grow 📈__        
 
 ---   
- 
+   
 ## 🙋 About Me 
 
 - 🔍 Currently working on: **Python for Data Analysis (Pandas, Matplotlib)**
