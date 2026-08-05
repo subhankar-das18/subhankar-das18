@@ -15,7 +15,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools   
 
 ### Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
