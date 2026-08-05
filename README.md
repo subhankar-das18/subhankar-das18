@@ -28,7 +28,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
+---    
 
 ## 📁 Featured Projects
 
