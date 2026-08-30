@@ -56,6 +56,6 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 - ⬜ First data analyst role in 2026
 - ⬜ Tableau certification
 
----
+---   
 
 *"Data without context is just noise. I build dashboards that tell the story behind the numbers."*
