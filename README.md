@@ -32,7 +32,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ## 📁 Featured Projects
 
-| Project | Domain | Tools | Description |
+| Project | Domain | Tools | Description |    
 |---|---|---|---|
 | [E-commerce Profitability Analysis](https://github.com/subhankar-das18/E-commerce-Profitability-Analysis) | Retail / E-commerce | PostgreSQL, Power BI, DAX | Revenue, orders & category performance dashboard |
 | [SaaS Churn Analysis](https://github.com/subhankar-das18/Saas-Churn-Analysis) | SaaS / B2B | Power BI, DAX | MRR, churn rate & retention by plan and industry |
