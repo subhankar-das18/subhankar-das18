@@ -54,7 +54,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 - ✅ 3+ end-to-end industry projects on GitHub
 - ⬜ Python for data analysis (Pandas, Matplotlib)
 - ⬜ First data analyst role in 2026
-- ⬜ Tableau certification
+- ⬜ Tableau certification   
 
 ---   
 
