@@ -40,7 +40,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats    
 
 
 <p align="center">
