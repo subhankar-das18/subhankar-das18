@@ -9,7 +9,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 - 🔍 Currently working on: **Python for Data Analysis (Pandas, Matplotlib)**
 - 📊 Building dashboards that answer real business questions — not just pretty charts
 - 🧠 Improving in: **AI-augmented analysis, business storytelling, and DAX**
-- 📍 Based in **Kolkata, India** — open to remote opportunities
+- 📍 Based in **Siliguri, India** — open to remote opportunities
 - 📫 Reach me: **[subhankardas.work@outlook.com](mailto:subhankardas.work@outlook.com)**
 -  LinkedIn:(https://www.linkedin.com/in/subhankar-das-the-analyst)
 
