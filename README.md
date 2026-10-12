@@ -11,7 +11,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 - 🧠 Improving in: **AI-augmented analysis, business storytelling, and DAX**
 - 📍 Based in **Siliguri, India** — open to remote opportunities
 - 📫 Reach me: **[subhankardas.work@outlook.com](mailto:subhankardas.work@outlook.com)**
--  LinkedIn:(https://www.linkedin.com/in/subhankar-das-the-analyst)
+-  LinkedIn:(https://www.linkedin.com/in/subhankar-das-the-analyst) 
 
 ---
 
