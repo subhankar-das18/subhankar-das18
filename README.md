@@ -32,7 +32,7 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ---    
 
-## 📁 Featured Projects
+## 📁 Featured Projects   
 
 | Project | Domain | Tools | Description |
 |---|---|---|---|
