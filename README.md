@@ -34,12 +34,12 @@ __Self-taught data analyst , learning by actually building things 🛠️ | Curr
 
 ## 📁 Featured Projects
 
-| Project | Domain | Tools | Description |    
+| Project | Domain | Tools | Description |
 |---|---|---|---|
+| [E-commerce Sales & Customer Cohort Retention Analysis](https://github.com/subhankar-das18/E-commerce-Sales-Customer-Cohort-Retention-Analysis) | Retail / E-commerce | SQL, Power BI, DAX | Cohort-based customer retention and repeat-purchase behavior |
 | [E-commerce Profitability Analysis](https://github.com/subhankar-das18/E-commerce-Profitability-Analysis) | Retail / E-commerce | PostgreSQL, Power BI, DAX | Revenue, orders & category performance dashboard |
-| [SaaS Churn Analysis](https://github.com/subhankar-das18/Saas-Churn-Analysis) | SaaS / B2B | Power BI, DAX | MRR, churn rate & retention by plan and industry |
-| [Loan Default Risk Analysis](https://github.com/subhankar-das18/Loan-Default-Risk-Analysis) | Finance / Banking | Power BI, DAX | High-risk borrower segmentation by credit score & DTI |
-
+| [SQL Job Market Analysis](https://github.com/subhankar-das18/SQL-Job-Market-Analysis) | Job Market / Analytics | SQL | Analysis of in-demand skills and roles in the job market |
+| [HR Attrition Workforce Analysis](https://github.com/subhankar-das18/HR-Attrition-Workforce-Analysis) | HR / People Analytics | Power BI, DAX | Employee attrition drivers across the workforce |
 ---
 
 ## 📊 GitHub Stats    
